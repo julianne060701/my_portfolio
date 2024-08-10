@@ -36,7 +36,7 @@
           </div>
           <div class="skill-item">
             <img src="assets/img/camera.jpg" alt="Camera Logo" class="skill-logo">
-            <strong>Photography</strong>
+            <strong>Photographys</strong>
           </div>
           <div class="skill-item">
             <img src="assets/img/pc.jpg" alt="PC Logo" class="skill-logo">
