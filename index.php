@@ -19,7 +19,7 @@
     <div class="hero-content">
       <div class="hero-text">
         <h2>Julie Ann G. Fernandez</h2>
-        <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer">Designer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+        <p>I'm <span class="typed" data-typed-items=" Developer, Freelancer, Photographer">Developer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
       </div>
       <div class="hero-image">
         <img src="assets/img/ID.jpg" alt="Julianne">

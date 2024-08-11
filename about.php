@@ -4,6 +4,9 @@
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
   <h2>About</h2>
+  <p>Hello! I'm Julie Ann G. Fernandez, a passionate Information Technology graduate from STI College – General Santos City, where I earned my degree as Cum Laude. 
+    I was born in Magsaysay Nabunturan ComVal Province and continued my schooling here in General Santos City. My love for technology is matched only by my enthusiasm for playing volleyball and chess. 
+    With experience in both hardware troubleshooting and web development, I've developed a strong foundation in IT, demonstrated during my time at Gensan Medical Center and through various internships with the local government.</p>
   
 </div><!-- End Section Title -->
 

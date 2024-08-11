@@ -4,6 +4,12 @@
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
   <h2>Resume</h2>
+  <p>I am a dedicated Information Technology professional with a Bachelor of Science in Information Technology, graduating Cum Laude from STI College – General Santos City. 
+    With over 7 years of freelance experience in video and photo editing, 2 years in web and software development, and 4 years in PC troubleshooting and repair, I have developed a strong technical foundation. 
+    My expertise is further validated by a National Certificate II (NCII) in Computer System Servicing.
+<span><br><br>
+In my professional journey, I have gained hands-on experience as an IT personnel at Gensan Medical Center, specializing in hardware troubleshooting, printer and desktop repair, and website development. 
+I have also contributed to the ICTD and OSCA in LGU General Santos City through summer jobs, where I managed documents, reviewed websites, and assisted with senior citizen applicant verification.</span></p>
 
 </div><!-- End Section Title -->
 
