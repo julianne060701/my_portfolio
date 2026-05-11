@@ -53,12 +53,35 @@ I have also contributed to the ICTD and OSCA in LGU General Santos City through 
     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
       <h3 class="resume-title">Work Experience</h3>
       <div class="resume-item">
-        <h4>Gensan Medical Center (GensanMed)</h4>
-        <h5>February 2024  - May 2024</h5>
-        <p><em>General Santos City </em></p>
+         <h4>Freelance Web Developer</h4>
+            <h5>2022 - Present</h5>
+            <p><em>General Santos City </em></p>
         <ul>
-          <li>I worked as an IT personnel specializing in hardware, troubleshooting printers and desktops. Additionally, I was involved in designing and programming their website. During my OJT at Gensan Medical Center. 
-          </li>
+           <li>Provide web development, application testing, and maintenance for various clients. </li>
+              <li>Identify system issues, conduct bug fixes, and optimize performance.</li>
+              <li>Enhance user experience and ensure system stability across platforms.</li>
+        </ul>
+      </div><!-- Edn Resume Item -->
+
+       <div class="resume-item">
+         <h4>Starbright Office Depot, Inc.</h4>
+            <h5>December 17, 2026 - Present</h5>
+            <p><em>General Santos City </em></p>
+        <ul>
+           <li>Developed and maintained internal systems and add-ins to improve business operations.</li>
+              <li>Provided technical support across multiple branches, resolving system-related issues.</li>
+              <li>Collaborated with staff to identify system improvements and implement solutions.</li>
+        </ul>
+      </div><!-- Edn Resume Item -->
+
+           <div class="resume-item">
+         <h4>Gensan Medical Center (GensanMed)</h4>
+            <h5>Jan 03 - December 13, 2026</h5>
+            <p><em>General Santos City </em></p>
+        <ul>
+           <li>Specialized in hardware maintenance and troubleshooting (printers, desktops, etc.).</li>
+              <li>Developed and maintained an internal ticketing system for IT issue tracking.</li>
+              <li>Supported daily operations by ensuring optimal performance of IT equipment.</li>
         </ul>
       </div><!-- Edn Resume Item -->
 
@@ -71,14 +94,14 @@ I have also contributed to the ICTD and OSCA in LGU General Santos City through 
         </ul>
       </div><!-- Edn Resume Item -->
 
-      <div class="resume-item">
+      <!-- <div class="resume-item">
         <h4>Summer job as Special Program for Employment of Student (SPES) in The Office for Senior Citizens Affairs (OSCA) in LGU General Santos City </h4>
         <h5>July 2022  - August 2022</h5>
         <p><em>General Santos City</em></p>
         <ul>
           <li>I served as an assistant for receiving and verifying applicants for senior citizens.</li>        
         </ul>
-      </div><!-- Edn Resume Item -->
+      </div>Edn Resume Item -->
 
     </div>
 

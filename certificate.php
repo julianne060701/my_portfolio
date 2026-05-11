@@ -53,7 +53,7 @@
         </div>
       </div><!-- End Portfolio Item -->
 
-      <div class="col-lg-4 col-md-6 certificate-item isotope-item filter-website">
+      <!-- <div class="col-lg-4 col-md-6 certificate-item isotope-item filter-website">
         <div class="certificate-content h-100">
           <img src="assets/img/portfolio/ncii.png" class="img-fluid" alt="">
           <div class="certificate-info">
@@ -61,7 +61,7 @@
           
           </div>
         </div>
-      </div><!-- End Portfolio Item -->
+      </div>End Portfolio Item -->
 
       <div class="col-lg-4 col-md-6 certificate-item isotope-item filter-website">
         <div class="certificate-content h-100">

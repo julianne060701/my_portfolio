@@ -27,7 +27,7 @@
         </div>
         <div class="col-lg-6">
           <ul>
-            <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>23</span></li>
+            <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>24</span></li>
             <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>rielyn1606@gmail.com</span></li>
             <li><i class="bi bi-chevron-right"></i> <strong>Course:</strong> <span>Bachelor of Science in Information Technology (BSIT)</span></li>
            
